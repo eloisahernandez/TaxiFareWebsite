@@ -1,6 +1,5 @@
 import streamlit as st
 import datetime as dt
-import re
 import requests
 '''
 # NYC Taxi Fares
