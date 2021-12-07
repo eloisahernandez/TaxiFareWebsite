@@ -1,3 +1,11 @@
+# TaxiFareWebsite
+
+**Repo created during Le Wagon Data Science Bootcamp 2021**
+
+**Instructions below by Le Wagon team.**
+
+-----
+# Instructions 
 
 We saw in the previous challenge how to plug a website to our **Prediction API** in order to allow regular users to make prediction.
 
